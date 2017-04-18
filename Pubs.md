@@ -6,7 +6,7 @@
 
 - Bunnell, D. B., Hook, T. O., Troy, C. D., Liu, W., Madenjian, C. P., and **Adams, J. V.**  2017.  [Testing for synchrony in recruitment among four Lake Michigan fish species](http://doi.org/10.1139/cjfas-2015-0534).  Canadian Journal of Fisheries and Aquatic Science 74(3):306-315.    
 
-- Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  (*In print*)  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey]().  Canadian Journal of Fisheries and Aquatic Science.
+- Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  (*In print*)  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science.
 
 ## 2016
 
