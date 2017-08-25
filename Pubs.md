@@ -8,6 +8,8 @@
 
 - Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  (*In print*)  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science.
 
+- Nowicki, C. J., Bunnell, D. B., Armenio, P. M., Warner, D. M., Vanderploeg, H. A., Cavaletto, J. F., Mayer, C. M., **Adams, J. V.**.  2017.  [Biotic and abiotic factors influencing zooplankton vertical distribution in Lake Huron](https://doi.org/10.1016/j.jglr.2017.08.004).  Journal of Great Lakes Research 43(6):???-???.  
+
 ## 2016
 
 - **Adams, J. V.**, Slaght, K. S., and Boogaard, M. A.  2016.  [An automated approach to Litchfield and Wilcoxon's evaluation of dose-effect experiments using the R package LW1949](http://doi.org/10.1002/etc.3490). Environmental Toxicology and Chemistry 35:3058-3061.  
