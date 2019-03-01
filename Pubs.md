@@ -1,5 +1,9 @@
 # Peer-reviewed publications
 
+## 2019
+
+- Neave, F. B., Steeves, T. B., Pratt, T. C., Mclaughlin, R. L., **Adams, J. V.**, Docker, M. F.  2019.  [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes.
+
 ## 2018
 
 - Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  2018.  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science 75(1):152-168.
