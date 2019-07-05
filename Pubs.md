@@ -8,6 +8,8 @@
 
 - Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  2018.  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science 75(1):152-168.
 
+- Stapanian, M.A., Micacchion, M., Gara, B., Schumacher, W., **Adams, J. V.**  2018.  [Site-scale disturbance best predicts moss, vascular plant, and amphibian indices in Ohio wetlands](https://doi.org/10.3368/er.36.2.145). Ecological Restoration 36(2):145-156.
+
 ## 2017
 
 - Armenio, P. M., Bunnell, D. B., **Adams, J. V.**, Watson, N. M., Woelmer, W.  2017.  [It's like night and day: diel net-effects on Cercopagidae densities in the Laurentian Great Lakes](http://dx.doi.org/10.1016/j.jglr.2016.12.001). Journal of Great Lakes Research 43(2):394-398.  
