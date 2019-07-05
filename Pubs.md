@@ -28,7 +28,7 @@
 
 ## 2015
 
-- Keeler, K. M., Bunnell, D. B., Diana, J. S., **Adams, J. V.**, Mychek-Londer, J. G., Warner, D. M., Yule, D. L, and Vinson, M. R.  2015.  [Evaluating the importance of abiotic and biotic drivers on Bythotrephes biomass in Lakes Superior and Michigan](http://dx.doi.org/10.1016/j.jglr.2015.07.010).  Journal of Great Lakes Research.   
+- Keeler, K. M., Bunnell, D. B., Diana, J. S., **Adams, J. V.**, Mychek-Londer, J. G., Warner, D. M., Yule, D. L, and Vinson, M. R.  2015.  [Evaluating the importance of abiotic and biotic drivers on Bythotrephes biomass in Lakes Superior and Michigan](http://dx.doi.org/10.1016/j.jglr.2015.07.010).  Journal of Great Lakes Research 41(Supp. 3):150-160.
 
 - Lantry, B. F., **Adams, J. V.**, Christie, G. C., Schaner, T., Bowlby, J., Keir, M. J., Lantry, J. R., Sullivan, W. P., Bishop, D., Treska, T., Morrison, B. J.  2015.  [Sea lamprey mark type, marking rate, and parasite-host relationships for lake trout and other species in Lake Ontario](http://dx.doi.org/10.1016/j.jglr.2014.12.013).  Journal of Great Lakes Research 41(1):266-279.   
 
