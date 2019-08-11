@@ -4,15 +4,15 @@
 
 - Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions.  Journal of Great Lakes Research.
 
-- Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics.  Ecology and Evolution
+- Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics.  Ecology and Evolution.
 
 ## 2019
 
-- Neave, F. B., Steeves, T. B., Pratt, T. C., Mclaughlin, R. L., **Adams, J. V.**, Docker, M. F.  2019.  [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes 102(4):615-627.
+- Neave, F. B., Steeves, T. B., Pratt, T. C., McLaughlin, R. L., **Adams, J. V.**, Docker, M. F.  2019.  [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes 102(4):615-627.
 
 ## 2018
 
-- Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., SepÃºlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  2018.  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science 75(1):152-168.
+- Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sepúlveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  2018.  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science 75(1):152-168.
 
 - Stapanian, M.A., Micacchion, M., Gara, B., Schumacher, W., **Adams, J. V.**  2018.  [Site-scale disturbance best predicts moss, vascular plant, and amphibian indices in Ohio wetlands](https://doi.org/10.3368/er.36.2.145). Ecological Restoration 36(2):145-156.
 
@@ -39,6 +39,7 @@
 - Lantry, B. F., **Adams, J. V.**, Christie, G. C., Schaner, T., Bowlby, J., Keir, M. J., Lantry, J. R., Sullivan, W. P., Bishop, D., Treska, T., Morrison, B. J.  2015.  [Sea lamprey mark type, marking rate, and parasite-host relationships for lake trout and other species in Lake Ontario](http://dx.doi.org/10.1016/j.jglr.2014.12.013).  Journal of Great Lakes Research 41(1):266-279.   
 
 - Micacchion, M., Stapanian, M. A., and **Adams, J. V.**  2015.  [Site-scale disturbance and habitat development best predict an index of amphibian biotic integrity in Ohio shrub and forested wetlands](http://dx.doi.org/10.1007/s13157-015-0638-2).  Wetlands 35(3):509-519.  
+
 - Riley, S., Tucker, T. R., **Adams, J. V.**, Fogarty, L. R., and Lafrancois, B.  2015.  [Factors associated with the deposition of *Cladophora* on Lake Michigan beaches in 2012](http://dx.doi.org/10.1016/j.jglr.2015.09.008).  Journal of Great Lakes Research 41(4):1094-1105.   
 
 - Stapanian, M. A., Micacchion, M., and **Adams, J. V.**  2015.  [Wetland habitat disturbance best predicts metrics of an amphibian index of biotic integrity](http://dx.doi.org/10.1016/j.ecolind.2015.04.005).  Ecological Indicators 56:237-242.   
@@ -155,7 +156,7 @@
 
 ## 1999
 
-- Bowen, C. A. II, Bronte, C. R., Argyle, R. L., **Adams, J. V.**, and Johnson, J. E.  1999.  [Vateritic sagitta in wild and stocked lake trout: applicability to stock origin](http://dx.doi.org/10.1577/1548-8659(1999)128<0929:VSIWAS>2.0.CO;2).  Transactions of the American Fisheries Society 128: 929-938.   
+- Bowen, C. A. II, Bronte, C. R., Argyle, R. L., **Adams, J. V.**, and Johnson, J. E.  1999.  [Vateritic sagitta in wild and stocked lake trout: applicability to stock origin](http://dx.doi.org/10.1577/1548-8659(1999)128<0929:VSIWAS>2.0.CO;2).  Transactions of the American Fisheries Society 128: 929-938.
 
 - Edsall, T. A., Frank, A. M., Rottiers, D. V., and **Adams, J. V.**  1999.  [The effect of temperature and ration size on the growth, body composition, and energy content of juvenile coho salmon](http://dx.doi.org/10.1016/S0380-1330(99)70744-6).  Journal of Great Lakes Research 25: 355-362.   
 
