@@ -2,7 +2,9 @@
 
 ## In review
 
-Nicholas Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review*  Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions.  Journal of Great Lakes Research.
+- Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions.  Journal of Great Lakes Research.
+
+- Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics.  Ecology and Evolution
 
 ## 2019
 
