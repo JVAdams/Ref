@@ -14,6 +14,8 @@
 
 - Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
 
+- Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>.  Journal of Great Lakes Research.
+
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P., (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
 - Tews, J., ..., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Pere Marquette barrier</span>.  Journal of Great Lakes Research.
