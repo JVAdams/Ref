@@ -18,8 +18,6 @@
 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P., (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
-- Tews, J.M., **Adams, J. V.**, Mann, K.A., Koon, E.M., Heinrich, J.W. *In preparation.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
-
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Seifkes, M. J.  *In preparation.*  <span style="color:brown">Defining success in an invasive species control program: setting targets for Great Lakes sea lamprey</span>.  Journal of Great Lakes Research.
 
 --->
@@ -31,6 +29,8 @@
 - Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
 
 - Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* <span style="color:brown">Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics</span>.  Ecology and Evolution.
+
+- Tews, J.M., **Adams, J. V.**, Mann, K.A., Koon, E.M., Heinrich, J.W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
 
 ## 2019
 
