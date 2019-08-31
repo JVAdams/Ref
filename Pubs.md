@@ -1,28 +1,28 @@
 # Peer-reviewed publications
 
-<!--- html comment 
+<!--- html comment
 
 ## In preparation
 
-- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Evidence of host switching: Lake Ontario sea lamprey prefer Chinook salmon when lake trout abundance is low</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">When the indicators stop making sense, is measurement error to blame?</span>  Ecological Modelling.
 
-- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Measurement error</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Determining age at maturity of a semelparous species using a stock recruitment model: noise overwhelms signal</span>.  Ecological Modelling.
 
-- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Generation length of Great Lakes sea lampreys</span>.  Journal of Great Lakes Research.
-
-- **Adams, J. V.**, Jones, M. L.  .... *In preparation.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Birceanu, O., Chadderton, W.L., Christie, G., Jones, M.L., Lepak, J., Selheimer, T., Steeves, T.B., Sullivan, P., Wingfield, J. *In preparation.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
 
 - Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
 
-- Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>.  Journal of Great Lakes Research.
+- Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>  Journal of Great Lakes Research.
 
-- Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P., (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
+- Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Seifkes, M. J.  *In preparation.*  <span style="color:brown">Defining success in an invasive species control program: setting targets for Great Lakes sea lamprey</span>.  Journal of Great Lakes Research.
 
---->
+ --->
 
 ## In review
+
+- **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Evidence of host switching: Lake Ontario sea lamprey prefer Chinook salmon when lake trout abundance is low</span>.  Journal of Great Lakes Research.
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">What do annual marking rates really tell us about sea lampreys and lake trout?</span>  Journal of Great Lakes Research.
 
