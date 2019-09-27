@@ -1,6 +1,6 @@
 # Peer-reviewed publications
 
-<!--- html comment
+<!--- html comment --->
 
 ## In preparation
 
@@ -12,7 +12,11 @@
 
 - Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
 
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In preparation.*  <span style="color:brown">Workshop and study to assess and improve consistency and accuracy among individuals and agencies at classifying sea lamprey wounds on lake trout</span>.  Journal of Great Lakes Research.
+
 - Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>  Journal of Great Lakes Research.
+
+- Jones, M. L., **Adams, J. V.**.  *In preparation.*  <span style="color:brown">Prospects for eradication of sea lamprey from the Laurentian Great Lakes</span>.  Journal of Great Lakes Research.
 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
