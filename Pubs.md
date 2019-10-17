@@ -1,6 +1,6 @@
 # Peer-reviewed publications
 
-<!--- html comment --->
+<!--- html comment 
 
 ## In preparation
 
@@ -16,8 +16,6 @@
 
 - Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>  Journal of Great Lakes Research.
 
-- Jones, M. L., **Adams, J. V.**.  *In preparation.*  <span style="color:brown">Prospects for eradication of sea lamprey from the Laurentian Great Lakes</span>.  Journal of Great Lakes Research.
-
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Seifkes, M. J.  *In preparation.*  <span style="color:brown">Defining success in an invasive species control program: setting targets for Great Lakes sea lamprey</span>.  Journal of Great Lakes Research.
@@ -31,6 +29,8 @@
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">What do annual marking rates really tell us about sea lampreys and lake trout?</span>  Journal of Great Lakes Research.
 
 - Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
+
+- Jones, M. L., **Adams, J. V.**.  *In review.*  <span style="color:brown">Eradication of sea lampreys from the Laurentian Great Lakes is possible</span>.  Journal of Great Lakes Research.
 
 - Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* <span style="color:brown">Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics</span>.  Ecology and Evolution.
 
