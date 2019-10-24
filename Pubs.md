@@ -12,8 +12,6 @@
 
 - Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
 
-- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In preparation.*  <span style="color:brown">Workshop and study to assess and improve consistency and accuracy among individuals and agencies at classifying sea lamprey wounds on lake trout</span>.  Journal of Great Lakes Research.
-
 - Hinderer, J. L. M., **Adams, J. V.**, Bennion, D. H., Faust, M. D., Jubar, A. K., Neave, F. B., Siefkes, M. J.  *In preparation.*  <span style="color:brown">Has restoration of the St. Clair River benefited invasive sea lampreys?</span>  Journal of Great Lakes Research.
 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
@@ -27,6 +25,8 @@
 - **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Evidence of host switching: Lake Ontario sea lamprey prefer Chinook salmon when lake trout abundance is low</span>.  Journal of Great Lakes Research.
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">What do annual marking rates really tell us about sea lampreys and lake trout?</span>  Journal of Great Lakes Research.
+
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds - implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
 
 - Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
 
