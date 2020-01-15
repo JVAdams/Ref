@@ -26,15 +26,17 @@
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">What do annual marking rates really tell us about sea lampreys and lake trout?</span>  Journal of Great Lakes Research.
 
-- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds - implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds – implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
 
 - Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
 
 - Jones, M. L., **Adams, J. V.**.  *In review.*  <span style="color:brown">Eradication of sea lampreys from the Laurentian Great Lakes is possible</span>.  Journal of Great Lakes Research.
 
-- Sard, N., Smith, S., Homola, J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C., Hrodey, P., Tallon, K., Scribner, K. T. *In review.* <span style="color:brown">Rapture (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics</span>.  Ecology and Evolution.
-
 - Tews, J.M., **Adams, J. V.**, Mann, K.A., Koon, E.M., Heinrich, J.W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
+
+## 2020
+
+- Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/https://doi.org/10.1002/ece3.6001). Ecology and Evolution. 
 
 ## 2019
 
