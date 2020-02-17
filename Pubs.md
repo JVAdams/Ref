@@ -4,11 +4,11 @@
 
 ## In preparation
 
-- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lamprey</span>  Fisheries Research.
+- **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys</span>.  Fisheries Research.
 
 - **Adams, J. V.**, Jones, M. L.  *In preparation.*  <span style="color:brown">Stock recruitment dynamics of Great Lakes sea lampreys</span>.  Fisheries Research.
 
-- **Adams, J. V.**, Birceanu, O., Chadderton, W.L., Christie, G., Jones, M.L., Lepak, J., Selheimer, T., Steeves, T.B., Sullivan, P., Wingfield, J. *In preparation.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Christie, G. C., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In preparation.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
 
 - Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
 
@@ -24,13 +24,13 @@
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Using simulation to better understand annual sea lamprey marking rates on lake trout</span>  Journal of Great Lakes Research.
 
-- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds – implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
 
-- Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, Michael J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
+- Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
 
 - Jones, M. L., **Adams, J. V.**.  *In review.*  <span style="color:brown">Eradication of sea lampreys from the Laurentian Great Lakes is possible</span>.  Journal of Great Lakes Research.
 
-- Tews, J.M., **Adams, J. V.**, Mann, K.A., Koon, E.M., Heinrich, J.W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
+- Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
 
 ## 2020
 
@@ -44,7 +44,7 @@
 
 - Dunlop, E. S., McLaughlin, R., **Adams, J. V.**, Jones, M., Birceanu, O., Christie, M. R., Criger, L. A., Hinderer, J. L. M., Hollingworth, R. M., Johnson, N. S., Lantz, S., Li, W., Miller, J., Morrison, B. J., Mota-Sanchez, D., Muir, A., Sep?lveda, M. S., Steeves, T. B., Walter, L., Westman, E., Wirgin, I., and Wilkie, M. P.  2018.  [Rapid evolution meets invasive species control: the potential for pesticide resistance in sea lamprey](http://dx.doi.org/10.1139/cjfas-2017-0015).  Canadian Journal of Fisheries and Aquatic Science 75(1):152-168.
 
-- Stapanian, M.A., Micacchion, M., Gara, B., Schumacher, W., **Adams, J. V.**  2018.  [Site-scale disturbance best predicts moss, vascular plant, and amphibian indices in Ohio wetlands](https://doi.org/10.3368/er.36.2.145). Ecological Restoration 36(2):145-156.
+- Stapanian, M. A., Micacchion, M., Gara, B., Schumacher, W., **Adams, J. V.**  2018.  [Site-scale disturbance best predicts moss, vascular plant, and amphibian indices in Ohio wetlands](https://doi.org/10.3368/er.36.2.145). Ecological Restoration 36(2):145-156.
 
 ## 2017
 
