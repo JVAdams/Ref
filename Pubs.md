@@ -34,7 +34,7 @@
 
 ## 2020
 
-- Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/https://doi.org/10.1002/ece3.6001). Ecology and Evolution. 
+- Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/10.1002/ece3.6001). Ecology and Evolution 10:1469-1488.
 
 ## 2019
 
