@@ -20,7 +20,7 @@
 
 ## In review
 
-- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Using simulation to better understand annual sea lamprey marking rates on lake trout</span>  Journal of Great Lakes Research.
+- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Using simulation to better understand annual sea lamprey marking rates on lake trout</span>.  Journal of Great Lakes Research.
 
 - Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
 
