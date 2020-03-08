@@ -20,8 +20,6 @@
 
 ## In review
 
-- **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario</span>.  Journal of Great Lakes Research.
-
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Using simulation to better understand annual sea lamprey marking rates on lake trout</span>  Journal of Great Lakes Research.
 
 - Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
@@ -31,6 +29,10 @@
 - Jones, M. L., **Adams, J. V.**.  *In review.*  <span style="color:brown">Eradication of sea lampreys from the Laurentian Great Lakes is possible</span>.  Journal of Great Lakes Research.
 
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
+
+## In press
+
+- **Adams, J. V.**, Jones, M. L.  *In press.*  <span style="color:brown">Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario</span>.  Journal of Great Lakes Research.
 
 ## 2020
 
