@@ -30,11 +30,9 @@
 
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">An evaluation of an electric weir and fishway in the Pere Marquette River</span>.  Journal of Great Lakes Research.
 
-## In press
-
-- **Adams, J. V.**, Jones, M. L.  *In press.*  <span style="color:brown">Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario</span>.  Journal of Great Lakes Research.
-
 ## 2020
+
+- **Adams, J. V.**, Jones, M. L.  2020.  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
 
 - Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/10.1002/ece3.6001). Ecology and Evolution 10(3):1469-1488.
 
