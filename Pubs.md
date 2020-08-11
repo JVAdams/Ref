@@ -4,39 +4,43 @@
 
 ## In preparation
 
-- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Christie, G. C., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In preparation.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
-
-- Barber, J. M., **Adams, J. V.**, ... *In preparation.*  <span style="color:brown">Measures for gauging program success</span>.  Journal of Great Lakes Research.
-
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
-
-- Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Seifkes, M. J.  *In preparation.*  <span style="color:brown">Defining success in an invasive species control program: setting targets for Great Lakes sea lamprey</span>.  Journal of Great Lakes Research.
 
  --->
 
 ## In review
 
+- **Adams, J. V.**, Barber, J.M., Bravener, G.A., Lewandoski, S.A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>.  Journal of Great Lakes Research.
+
+- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Christie, G. C., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In review.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
+
 - **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Stock recruitment dynamics of Great Lakes sea lampreys</span>.  Canadian Journal of Fisheries and Aquatic Sciences.
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys</span>.  Fisheries Research.
 
-- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Using simulation to understand annual sea lamprey marking rates on lake trout</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *Accepted.*  <span style="color:brown">Using simulation to understand annual sea lamprey marking rates on lake trout</span>.  Journal of Great Lakes Research.
 
-- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In review.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *Accepted.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
 
-- Johnson, N., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In review.*  <span style="color:brown">Abundance estimates of invasive sea lamprey in Lake Superior are highly correlated with environmental conditions</span>.  Journal of Great Lakes Research.
+- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In review.*  <span style="color:brown">Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior</span>.  Journal of Great Lakes Research.
 
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">A review of an electric weir and fishway in a Great Lakes tributary from conception to termination</span>.  Journal of Great Lakes Research.
 
+- Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J.  *In review.*  <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>.  Journal of Great Lakes Research.
+
+## In press
+
+- **Adams, J. V.**, Jones, M. L.  *In press.*  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
+
+- Jones, M. L., **Adams, J. V.**  *In press.*  [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011).  Journal of Great Lakes Research.
+
 ## 2020
-
-- **Adams, J. V.**, Jones, M. L.  2020.  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
-
-- Jones, M. L., **Adams, J. V.**.  2020.  [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011).  Journal of Great Lakes Research.
 
 - Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/10.1002/ece3.6001). Ecology and Evolution 10(3):1469-1488.
 
 ## 2019
+
+<!---           N = 61 below           --->
 
 - Neave, F. B., Steeves, T. B., Pratt, T. C., McLaughlin, R. L., **Adams, J. V.**, Docker, M. F.  2019.  [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes 102(4):615-627.
 
@@ -52,7 +56,7 @@
 
 - Bunnell, D. B., Hook, T. O., Troy, C. D., Liu, W., Madenjian, C. P., and **Adams, J. V.**  2017.  [Testing for synchrony in recruitment among four Lake Michigan fish species](http://doi.org/10.1139/cjfas-2015-0534).  Canadian Journal of Fisheries and Aquatic Science 74(3):306-315.    
 
-- Nowicki, C. J., Bunnell, D. B., Armenio, P. M., Warner, D. M., Vanderploeg, H. A., Cavaletto, J. F., Mayer, C. M., **Adams, J. V.**.  2017.  [Biotic and abiotic factors influencing zooplankton vertical distribution in Lake Huron](https://doi.org/10.1016/j.jglr.2017.08.004).  Journal of Great Lakes Research 43(6):1044-1054.  
+- Nowicki, C. J., Bunnell, D. B., Armenio, P. M., Warner, D. M., Vanderploeg, H. A., Cavaletto, J. F., Mayer, C. M., **Adams, J. V.**  2017.  [Biotic and abiotic factors influencing zooplankton vertical distribution in Lake Huron](https://doi.org/10.1016/j.jglr.2017.08.004).  Journal of Great Lakes Research 43(6):1044-1054.  
 
 ## 2016
 
