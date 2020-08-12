@@ -7,7 +7,7 @@
 ## US Geological Survey - Great Lakes Science Center
 
 #### [Ann Arbor Wet Lab](https://youtu.be/syNtosyfKo0) - 4:10
-#### [Tunison Labratory of Aquatic Science](http://youtu.be/xZdRh4Ziz6M) - 1:35
+#### [Tunison Laboratory of Aquatic Science](http://youtu.be/xZdRh4Ziz6M) - 1:35
 #### [Eight Days on Lake Superior](http://youtu.be/IbKUnHoPk8w) - 9:56
 #### [Lake Trout Otolith Extraction](http://youtu.be/S_p8PNe-esQ) - 2:06
 #### [A Week in Sweden](http://youtu.be/LXccbeKUSp4) - 14:44
