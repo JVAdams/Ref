@@ -9,8 +9,8 @@
  --->
 
 ## In review
-
-- **Adams, J. V.**, Barber, J.M., Bravener, G.A., Lewandoski, S.A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>.  Journal of Great Lakes Research.
+ 
+- **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>.  Journal of Great Lakes Research.
 
 - **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Christie, G. C., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In review.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
 
@@ -20,9 +20,7 @@
 
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *Accepted.*  <span style="color:brown">Using simulation to understand annual sea lamprey marking rates on lake trout</span>.  Journal of Great Lakes Research.
 
-- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *Accepted.*  <span style="color:brown">Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy</span>.  Journal of Great Lakes Research.
-
-- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In review.*  <span style="color:brown">Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior</span>.  Journal of Great Lakes Research.
+- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *Accepted.*  <span style="color:brown">Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior</span>.  Journal of Great Lakes Research.
 
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">A review of an electric weir and fishway in a Great Lakes tributary from conception to termination</span>.  Journal of Great Lakes Research.
 
@@ -31,6 +29,8 @@
 ## In press
 
 - **Adams, J. V.**, Jones, M. L.  *In press.*  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
+
+- Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In press.*  [Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy](https://doi-org.proxy1.cl.msu.edu/10.1016/j.jglr.2020.07.016).  Journal of Great Lakes Research.
 
 - Jones, M. L., **Adams, J. V.**  *In press.*  [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011).  Journal of Great Lakes Research.
 
@@ -62,7 +62,7 @@
 
 - **Adams, J. V.**, Slaght, K. S., and Boogaard, M. A.  2016.  [An automated approach to Litchfield and Wilcoxon's evaluation of dose-effect experiments using the R package LW1949](http://doi.org/10.1002/etc.3490). Environmental Toxicology and Chemistry 35:3058-3061.  
 
-- Robinson, J. M., Wilberg, M. J., **Adams, J. V.**, and Jones, M. L.  2016.  [Tradeoff between assessment and control of aquatic invasive species: a case study of sea lamprey management in the St . Marys River](http://doi.org/10.1080/02755947.2015.1103822).  North American Journal of Fisheries Management 36(1):11-20. 
+- Robinson, J. M., Wilberg, M. J., **Adams, J. V.**, and Jones, M. L.  2016.  [Tradeoff between assessment and control of aquatic invasive species: a case study of sea lamprey management in the St. Marys River](http://doi.org/10.1080/02755947.2015.1103822).  North American Journal of Fisheries Management 36(1):11-20. 
 
 - Stapanian, M. A., Schumacher, W., Gara, B., **Adams, J. V.**, and Viau, N.  2016.  [Moss and vascular plant indices in Ohio wetlands have similar environmental predictors](http://doi.org/10.1016/j.ecolind.2015.11.036).  Ecological Indicators 62:138-146. 
 
