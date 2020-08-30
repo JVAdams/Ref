@@ -16,10 +16,6 @@
 
 - **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Stock recruitment dynamics of Great Lakes sea lampreys</span>.  Canadian Journal of Fisheries and Aquatic Sciences.
 
-- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In review.*  <span style="color:brown">Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys</span>.  Fisheries Research.
-
-- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *Accepted.*  <span style="color:brown">Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior</span>.  Journal of Great Lakes Research.
-
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">A review of an electric weir and fishway in a Great Lakes tributary from conception to termination</span>.  Journal of Great Lakes Research.
 
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J.  *In review.*  <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>.  Journal of Great Lakes Research.
@@ -28,9 +24,13 @@
 
 - **Adams, J. V.**, Jones, M. L.  *In press.*  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
 
+- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In press.*  [Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys](https://doi.org/10.1016/j.fishres.2020.105734).  Fisheries Research.
+
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In press.*  [Using simulation to understand annual sea lamprey marking rates on lake trout](https://doi.org/10.1016/j.jglr.2020.08.008).  Journal of Great Lakes Research.
 
 - Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In press.*  [Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy](https://doi-org.proxy1.cl.msu.edu/10.1016/j.jglr.2020.07.016).  Journal of Great Lakes Research.
+
+- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In press.*  [Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior](https://doi.org/10.1016/j.jglr.2020.08.011).  Journal of Great Lakes Research.
 
 - Jones, M. L., **Adams, J. V.**  *In press.*  [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011).  Journal of Great Lakes Research.
 
