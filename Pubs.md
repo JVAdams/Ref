@@ -6,17 +6,19 @@
 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
- --->
 
-## In review
+## --->
+ In review
  
 - **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>.  Journal of Great Lakes Research.
 
-- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Christie, G. C., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In review.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
+<!--- html comment 
+Drop Christie!!
+ --->
 
-- **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Stock recruitment dynamics of Great Lakes sea lampreys</span>.  Canadian Journal of Fisheries and Aquatic Sciences.
+- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In review.*  <span style="color:brown">Suppression or eradication: dueling goals of sea lamprey control in the Great Lakes</span>.  Journal of Great Lakes Research.
 
-- Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In review.*  <span style="color:brown">A review of an electric weir and fishway in a Great Lakes tributary from conception to termination</span>.  Journal of Great Lakes Research.
+- **Adams, J. V.**, Jones, M. L.  *In review.*  <span style="color:brown">Stock recruitment dynamics of Great Lakes sea lampreys</span>.  Fisheries Research.
 
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J.  *In review.*  <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>.  Journal of Great Lakes Research.
 
@@ -24,17 +26,19 @@
 
 - **Adams, J. V.**, Jones, M. L.  *In press.*  [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003).  Journal of Great Lakes Research.
 
-- **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In press.*  [Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys](https://doi.org/10.1016/j.fishres.2020.105734).  Fisheries Research.
-
 - **Adams, J. V.**, Jones, M. L., Bence, J. R.  *In press.*  [Using simulation to understand annual sea lamprey marking rates on lake trout](https://doi.org/10.1016/j.jglr.2020.08.008).  Journal of Great Lakes Research.
 
 - Firkus, T., Murphy, C., **Adams, J. V.**, Treska, T. J.  *In press.*  [Assessment of sea lamprey wounds --- implications of healing progression on wound classification consistency and accuracy](https://doi-org.proxy1.cl.msu.edu/10.1016/j.jglr.2020.07.016).  Journal of Great Lakes Research.
 
-- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T., Siefkes, M. J.  *In press.*  [Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior](https://doi.org/10.1016/j.jglr.2020.08.011).  Journal of Great Lakes Research.
+- Johnson, N. S., **Adams, J. V.**, Bravener, G., Treska, T. J., Siefkes, M. J.  *In press.*  [Winter severity, fish community, and availability to traps explain most of the variability in estimates of adult sea lamprey in Lake Superior](https://doi.org/10.1016/j.jglr.2020.08.011).  Journal of Great Lakes Research.
 
 - Jones, M. L., **Adams, J. V.**  *In press.*  [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011).  Journal of Great Lakes Research.
 
+- Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In press.*  [A review of an electric weir and fishway in a Great Lakes tributary from conception to termination](https://doi.org/10.1016/j.jglr.2020.09.004).  Journal of Great Lakes Research.
+
 ## 2020
+
+- **Adams, J. V.**, Jones, M. L., Bence, J. R.  2020.  [Investigating apparent misalignment of predator-prey dynamics: Great Lakes lake trout and sea lampreys](https://doi.org/10.1016/j.fishres.2020.105734).  Fisheries Research 232:105734.
 
 - Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G.,  **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/10.1002/ece3.6001). Ecology and Evolution 10(3):1469-1488.
 
@@ -70,7 +74,7 @@
 
 - Keeler, K. M., Bunnell, D. B., Diana, J. S., **Adams, J. V.**, Mychek-Londer, J. G., Warner, D. M., Yule, D. L, and Vinson, M. R.  2015.  [Evaluating the importance of abiotic and biotic drivers on Bythotrephes biomass in Lakes Superior and Michigan](http://dx.doi.org/10.1016/j.jglr.2015.07.010).  Journal of Great Lakes Research 41(Supp. 3):150-160.
 
-- Lantry, B. F., **Adams, J. V.**, Christie, G. C., Schaner, T., Bowlby, J., Keir, M. J., Lantry, J. R., Sullivan, W. P., Bishop, D., Treska, T., Morrison, B. J.  2015.  [Sea lamprey mark type, marking rate, and parasite-host relationships for lake trout and other species in Lake Ontario](http://dx.doi.org/10.1016/j.jglr.2014.12.013).  Journal of Great Lakes Research 41(1):266-279.   
+- Lantry, B. F., **Adams, J. V.**, Christie, G. C., Schaner, T., Bowlby, J., Keir, M. J., Lantry, J. R., Sullivan, W. P., Bishop, D., Treska, T. J., Morrison, B. J.  2015.  [Sea lamprey mark type, marking rate, and parasite-host relationships for lake trout and other species in Lake Ontario](http://dx.doi.org/10.1016/j.jglr.2014.12.013).  Journal of Great Lakes Research 41(1):266-279.   
 
 - Micacchion, M., Stapanian, M. A., and **Adams, J. V.**  2015.  [Site-scale disturbance and habitat development best predict an index of amphibian biotic integrity in Ohio shrub and forested wetlands](http://dx.doi.org/10.1007/s13157-015-0638-2).  Wetlands 35(3):509-519.  
 
