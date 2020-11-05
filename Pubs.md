@@ -7,8 +7,8 @@
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???)  *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>.  Journal of Great Lakes Research.
 
 
-## --->
- In review
+ --->
+## In review
  
 - **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>.  Journal of Great Lakes Research.
 
