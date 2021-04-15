@@ -2,17 +2,21 @@
 
 <!--- html comment 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???) *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>. Journal of Great Lakes Research.
+
+- **Adams, J. V.**, Jones, M. L. *In review.* <span style="color:brown">Adult-to-adult stock-recruitment models for Great Lakes sea lampreys</span>. Fisheries Research.
+
+
  --->
  
 ## In review
  
-- **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In review.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>. Journal of Great Lakes Research.
-
-- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In review.* <span style="color:brown">Trade-offs between suppression and eradication of sea lampreys from the Great Lakes</span>. Journal of Great Lakes Research.
-
-- **Adams, J. V.**, Jones, M. L. *In review.* <span style="color:brown">Adult-to-adult stock-recruitment models for Great Lakes sea lampreys</span>. Fisheries Research.
-
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J. *In review.* <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>. Journal of Great Lakes Research.
+
+## Accepted
+
+- **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *Accepted.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>. Journal of Great Lakes Research.
+
+- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *Accepted.* <span style="color:brown">Trade-offs between suppression and eradication of sea lampreys from the Great Lakes</span>. Journal of Great Lakes Research.
 
 ## In press
 
