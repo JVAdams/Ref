@@ -12,13 +12,11 @@
  
 - Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J. *In review.* <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>. Journal of Great Lakes Research.
 
-## Accepted
-
-- **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *Accepted.* <span style="color:brown">Quantifying Great Lakes sea lamprey populations using an index of adults</span>. Journal of Great Lakes Research.
-
-- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *Accepted.* <span style="color:brown">Trade-offs between suppression and eradication of sea lampreys from the Great Lakes</span>. Journal of Great Lakes Research.
-
 ## In press
+
+- **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In press.* [Quantifying Great Lakes sea lamprey populations using an index of adults](https://doi.org/10.1016/j.jglr.2021.04.009). Journal of Great Lakes Research.
+
+- **Adams, J. V.**, Birceanu, O., Chadderton, W. L., Jones, M. L., Lepak, J., Selheimer, T., Steeves, T. B., Sullivan, W. P., Wingfield, J. *In press.* [Trade-offs between suppression and eradication of sea lampreys from the Great Lakes](https://doi.org/10.1016/j.jglr.2021.04.005). Journal of Great Lakes Research.
 
 - **Adams, J. V.**, Jones, M. L. *In press.* [Evidence of host switching: sea lampreys disproportionately attack Chinook salmon when lake trout abundance is low in Lake Ontario](https://doi.org/10.1016/j.jglr.2020.03.003). Journal of Great Lakes Research.
 
