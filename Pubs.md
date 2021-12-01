@@ -3,15 +3,17 @@
 <!--- html comment 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???) *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>. Journal of Great Lakes Research.
 
-- **Adams, J. V.**, Jones, M. L. *In review.* <span style="color:brown">Adult-to-adult stock-recruitment models for Great Lakes sea lampreys</span>. Fisheries Research.
 
 
  --->
  
 ## In review
- 
-- Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J. *In review.* <span style="color:brown">A case study of setting threshold suppression targets for sea lamprey in the Great Lakes</span>. Journal of Great Lakes Research.
 
+- **Adams, J. V.**, Jones, M. L. *In review.* <span style="color:brown">Estimation of lake-scale stock-recruitment models for Great Lakes sea lampreys</span>. Ecological Modelling.
+
+- Weise, E. W., Scribner, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G. A., Johnson, N. S., Robinson, J. D. *In review.* <span style="color:brown">Pedigree analysis and estimates of effective breeding size characterize sea lamprey reproductive biology</span>. Evolutionary Applications.
+
+ 
 ## In press
 
 - **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. *In press.* [Quantifying Great Lakes sea lamprey populations using an index of adults](https://doi.org/10.1016/j.jglr.2021.04.009). Journal of Great Lakes Research.
@@ -28,7 +30,13 @@
 
 - Jones, M. L., **Adams, J. V.** *In press.* [Eradication of sea lampreys from the Laurentian Great Lakes is possible](https://doi.org/10.1016/j.jglr.2020.04.011). Journal of Great Lakes Research.
 
+- McLaughlin, R.,  **Adams, J. V.**, Almeida, P.R Barber, J., Burkett, D. P., Docker, M. F., Johnson, N. S., Moser, M. L., Muir, A. M., Pereira, D. L., Siefkes, M. J., Steeves, T. B., Wilkie, M. P. *In press.* [Foreword: Control and conservation of lampreys beyond 2020 - Proceedings from the 3rd Sea Lamprey International Symposium (SLIS III)](https://doi.org/10.1016/j.jglr.2021.11.001). Journal of Great Lakes Research.
+
 - Tews, J. M., **Adams, J. V.**, Mann, K. A., Koon, E. M., Heinrich, J. W. *In press.* [A review of an electric weir and fishway in a Great Lakes tributary from conception to termination](https://doi.org/10.1016/j.jglr.2020.09.004). Journal of Great Lakes Research.
+
+- Treska, T. J., Ebener, M. P., Christie, G. C., **Adams, J. V.**, Siefkes, M. J. *In press.* [A case study of setting threshold suppression targets for sea lamprey in the Great Lakes](https://doi.org/10.1016/j.jglr.2021.10.007). Journal of Great Lakes Research.
+
+
 
 ## 2020
 
