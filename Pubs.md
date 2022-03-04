@@ -42,7 +42,7 @@
 
 ## 2019
 
-<!- N = 61 below ->
+<!-- N = 61 below -->
 
 - Neave, F. B., Steeves, T. B., Pratt, T. C., McLaughlin, R. L., **Adams, J. V.**, Docker, M. F. 2019. [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes 102(4):615-627.
 
