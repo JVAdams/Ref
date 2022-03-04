@@ -1,14 +1,16 @@
 # Peer-reviewed publications
 
-<!- html comment 
+<!-- html comment 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???) *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>. Journal of Great Lakes Research.
- ->
+-->
  
-## In review
+## In press
 
-- **Adams, J. V.**, Jones, M. L. *In review.* <span style="color:brown">Estimation of lake-scale stock-recruitment models for Great Lakes sea lampreys</span>. Ecological Modelling.
+- Weise, E. W., Scribner, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G. A., Johnson, N. S., Robinson, J. D. *In press.* <span style="color:brown">Pedigree analysis and estimates of effective breeding size characterize sea lamprey reproductive biology</span>. Evolutionary Applications.
 
-- Weise, E. W., Scribner, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G. A., Johnson, N. S., Robinson, J. D. *In review.* <span style="color:brown">Pedigree analysis and estimates of effective breeding size characterize sea lamprey reproductive biology</span>. Evolutionary Applications.
+## 2022
+
+- **Adams, J. V.**, Jones, M. L. 2022. [Estimation of lake-scale stock-recruitment models for Great Lakes sea lampreys](https://doi.org/10.1016/j.ecolmodel.2022.109916). Ecological Modelling 467:109916.
 
 ## 2021
 
