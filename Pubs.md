@@ -1,9 +1,21 @@
 # Peer-reviewed publications
 
 <!-- html comment 
+
+- Dawson, H. A, **Adams, J. V.**, Allison, M., White T., Anderson, J., Deng, Z. D., Wagner, C. M., Booth, R. M. W., Lowe, M. R., Symbal, M. *Sep 2022 - Aug 2024*. Reconnaissance: tracking outmigration of sea lampreys as they seek their first host.
+
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???) *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>. Journal of Great Lakes Research.
+
+- Reeve, C., **Adams, J. V.**, Miehls, S. M., Lowe, M. R., Brownscombe, J., Moser, M.  *Oct 2021 - Mar 2023*. Proof of concept test of archival tags in lake trout to detect sea lamprey attachment.
+
+- Weise, E. M., Scribner1, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G., Johnson, N. S., Robinson, J. D. *In preparation*. Stream spawning diversity and effective breeding size in Great Lakes sea lamprey
+
 -->
- 
+
+## In press
+
+- **Adams, J. V.** *In press*. [Addressing a potential weakness in indices of predation, herbivory, and parasitism](https://doi.org/10.1002/1438-390X.12147). Population Ecology.
+
 ## 2022
 
 - **Adams, J. V.**, Jones, M. L. 2022. [Estimation of lake-scale stock-recruitment models for Great Lakes sea lampreys](https://doi.org/10.1016/j.ecolmodel.2022.109916). Ecological Modelling 467:109916.
@@ -11,6 +23,8 @@
 - Weise, E. W., Scribner, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G. A., Johnson, N. S., Robinson, J. D. 2022. [Pedigree analysis and estimates of effective breeding size characterize sea lamprey reproductive biology](https://doi.org/10.1111/eva.13364). Evolutionary Applications 15:484-500.
 
 ## 2021
+
+<!-- N = 73 below -->
 
 - **Adams, J. V.**, Barber, J. M., Bravener, G. A., Lewandoski, S. A. 2021. [Quantifying Great Lakes sea lamprey populations using an index of adults](https://doi.org/10.1016/j.jglr.2021.04.009). Journal of Great Lakes Research 47:S335-S346.
 
@@ -39,8 +53,6 @@
 - Sard, N. M., Smith, S. R., Homola, J. J., Kanefsky, J., Bravener, G., **Adams, J. V.**, Holbrook, C. M., Hrodey, P. J., Tallon, K., Scribner, K. T. 2020. [RAPTURE (RAD capture) panel facilitates analyses characterizing sea lamprey reproductive ecology and movement dynamics](https://doi.org/10.1002/ece3.6001). Ecology and Evolution 10(3):1469-1488.
 
 ## 2019
-
-<!-- N = 61 below -->
 
 - Neave, F. B., Steeves, T. B., Pratt, T. C., McLaughlin, R. L., **Adams, J. V.**, Docker, M. F. 2019. [Stream characteristics associated with feeding type in silver (*Ichthyomyzon unicuspis*) and northern brook (*I. fossor*) lampreys and tests for phenotypic plasticity](https://doi.org/10.1007/s10641-019-00857-8). Environmental Biology of Fishes 102(4):615-627.
 
