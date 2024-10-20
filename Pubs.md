@@ -6,15 +6,17 @@
 
 - Murphy, C., Firkus, T., **Adams, J. V.**, Madenjian, C. P., Treska, T. J., Wilkie, M. P. (Ivan, L.???) *In preparation.* <span style="color:brown">Sea lamprey invasion as a major ecological disruptor: exploring impacts on molecular to ecosystem level processes</span>. Journal of Great Lakes Research.
 
-- Reeve, C., **Adams, J. V.**, Miehls, S. M., Lowe, M. R., Brownscombe, J., Moser, M.  *Oct 2021 - Mar 2023*. Proof of concept test of archival tags in lake trout to detect sea lamprey attachment.
-
 - Weise, E. M., Scribner1, K. T., **Adams, J. V.**, Boeberitz, O., Jubar, A. K., Bravener, G., Johnson, N. S., Robinson, J. D. *In preparation*. Stream spawning diversity and effective breeding size in Great Lakes sea lamprey
 
 -->
 
-## In press
+## 2024
 
-- **Adams, J. V.** *In press*. [Addressing a potential weakness in indices of predation, herbivory, and parasitism](https://doi.org/10.1002/1438-390X.12147). Population Ecology.
+- Reeve, C., **Adams, J. V.**, Miehls, S. M., Lowe, M. R., Cooke, S. J., Moser, M., Brownscombe, J. W., 2024. [Developing a predictive model to identify sea lamprey parasitism on lake trout using biologgers](https://doi.org/10.1002/tafs.10491). Transactions of the American Fisheries Society.
+
+## 2023
+
+- **Adams, J. V.** 2023. [Addressing a potential weakness in indices of predation, herbivory, and parasitism](https://doi.org/10.1002/1438-390X.12147). Population Ecology 65(2):133-144.
 
 ## 2022
 
